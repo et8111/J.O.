@@ -1,4 +1,11 @@
 line 7
 line 8
 line 9
+<<<<<<< HEAD
 idk what line
+=======
+
+three
+more
+lines
+>>>>>>> 100da74d10b359c6e9c864789a86d1ab03ebee25
